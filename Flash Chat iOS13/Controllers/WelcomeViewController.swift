@@ -16,7 +16,7 @@ class WelcomeViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        titleLabel.text = "⚡️FlashChat"
+        titleLabel.text = K.appName
         
 //Exmpale of how to implement typing animation using a for loop
         
